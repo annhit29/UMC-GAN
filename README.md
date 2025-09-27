@@ -1,6 +1,10 @@
 # UMC-GAN inspired by: Automated Classical Cipher Emulation Attacks via Unified Unsupervised Generative Adversarial Networks
 
 \
+\
+My paper: [Bachelor Project Report](Bachelor%20Project%20Report.pdf)
+
+\
 plain-to-multi-ciphers domain or  multi-ciphers-to-single-plain domain
 
 \
